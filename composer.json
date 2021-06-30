@@ -1,5 +1,5 @@
 {
-    "name": "boshurik/telegram-bot-bundle",
+    "name": "egormanakin/telegram-bot-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Telegram bot bundle",
